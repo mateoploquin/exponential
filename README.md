@@ -1,6 +1,6 @@
 # Mateo Ploquin  
 
-**Best with:** Product strategy • Growth • GTM • Product Engineering  
+**Best with:** Product Strategy/Engineering • Growth • GTM  
 **Hands-on with:** Python (ML/AI, backend) • React Native • SQL • Firebase • Docker • Content virality (IG/TikTok/YouTube)  
 
 > 💡 **TL;DR** – I’m an **American–French–Mexican builder** chasing my long-time dream: moving to **San Francisco** to join or start an early-stage **AI startup**.  
