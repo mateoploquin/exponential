@@ -1,79 +1,74 @@
-# Mateo Ploquin
+# Mateo Ploquin  
 
-**Best with:** Product strategy • Growth • GTM • Product Engineering
-**Familiar with:** Python (ML/AI, backend..) • React Native (Mobile) • SQL • Firebase • Docker • Content virality (IG/TikTok/YouTube)
+**Best with:** Product strategy • Growth • GTM • Product Engineering  
+**Hands-on with:** Python (ML/AI, backend) • React Native • SQL • Firebase • Docker • Content virality (IG/TikTok/YouTube)  
 
-> 💡 **TL;DR** – I’m an American-French-Mexican product-builder & repeat founder, I'moving to **San Francisco** to dive into the heart of the tech scene. It's been my dream since 2020. 
-> Previously built **Pledge** (social media detox app backed by Make-A-Wish), led **La Info Positiva** in Spain (scaled to 1M+ followers, 20M monthly views), and founded **Shield**, a Chrome extension for data privacy.  
-> My next chapter: **join or found an early-stage AI startup in SF**.  
-
----
-
-## About Mateo
-
-> “In all my years of teaching, I’ve never seen anyone like you. From startups to hackathons and conferences, you never stop.”  
-> — my first-year Parallel Computing professor
-
-That line captured my operating system: **quiet persistence, fast learning, and navigating new environments with focus and depth**. I’ve lived in **Hong Kong, Paris, Mexico City, Istanbul, Zurich, Dublin** (and more), which sharpened my **adaptability**—I learn fast, get to the root cause, and iterate with low ego and high energy. I recently stepped down from La Info Positiva to pursue my long-held dream: **move to San Francisco** and build with ambitious teams.
-
-Outside work I compete in **boxing 🥊 and tennis 🎾**—I love challenges, especially mental ones.
-
-I recently quit my role at **La Info Positiva** to pursue my dream: moving to **San Francisco** to immerse myself in AI startups.  
+> 💡 **TL;DR** – I’m an **American–French–Mexican builder** chasing my long-time dream: moving to **San Francisco** to join or start an early-stage **AI startup**.  
+> I’ve built a social-media detox app backed by Make-A-Wish, scaled a media brand to **1M+ followers / 20M views a month**, and shipped a Chrome extension for data privacy. Now it’s time to go all-in on AI.  
 
 ---
 
-### Main Achievements
+## About Me  
 
+> “In all my years of teaching, I’ve never seen anyone like you. From startups to hackathons, you never stop.”  
+> — my first-year professor  
 
-- **Pledge – Co-founder (2025).**  
-  Built a behavioral-science app tackling social media overuse; integrated Apple ScreenTime APIs + Stripe to trigger Make-A-Wish donations. Early GTM reached **100k+ organic views**, **1k+ followers**, **300+ users**.
+That’s me in a line: **quiet persistence + fast learning + founder energy**.  
+I’ve lived in **Hong Kong, Paris, Mexico City, Istanbul, Zurich, Dublin**—which taught me how to adapt anywhere and keep momentum no matter the context.  
 
-- **La Info Positiva – CEO Spain (2025).**  
-  Revitalized a 1M-follower page, doubling engagement and growing reach to **20M+ monthly views**; built partnerships (UNHCR, Edelman, Ogilvy, Sony Music Spain).
-
-- **Google – Sales (80%)/ StratOps (20%) Intern (2024).**  
-  Only intern managing a **Tier-1 client portfolio**; added **€5M ARR in 12 weeks**, built a tracker that unlocked **~20% growth vs 7.5% avg**, and presented a Retail AI keynote to 40+ clients (≈ **$250k** impact).
-
-- **Clarity AI – Research Intern (2023).**  
-  Improved error-detection accuracy **+5%** in raw data pipelines; built an AI tool to extract SFDR metrics from PDFs, cutting response times from days to minutes.
-
-- **Shield – Founder (2020–2022).**  
-  Raised **€60k**, joined FrenchTech & Google for Startups; shipped multiple pivots and acquired **5k+ organic users**.
-
+I just stepped down from leading **La Info Positiva** to go all-in on SF. Outside work, you’ll find me competing in **boxing 🥊** and **tennis 🎾**—I like challenges that test both mind and grit.  
 
 ---
 
-### Projects Showcase
+## Highlights  
 
-| Project | Role & Stack | Why it matters | Demo |
-|---------|--------------|----------------|------|
-| **Pledge** | Co-founder • React Native (Expo), Apple APIs, Stripe | Tackles social media addiction with tech + philanthropy. | [Demo link](#) |
-| **La Info Positiva** | CEO • Editorial ops + growth systems | Built one of Spain’s fastest-growing brands. | [Demo link](#) |
-| **Shield** | Founder • Chrome APIs, Firebase | Early bet on privacy + data monetization. | [Demo link](#) |
-
----
-
-## How I Work
-
-- **Pattern I follow:** observe → simplify → act decisively.  
-- **Gets me pumped:** ambitious goals • founder-energy teams • AI applied to real-world problems.  
-- **Strengths:** adaptability, fast learning, iterative problem-solving, resilience.  
-- **Work style:** listen first, act second. Bias toward clarity > noise, execution > ego.  
+- **Pledge (2025)** – Co-founder. Social media detox app → 100k+ organic views, 1k followers, 300 users. Built with React Native, Apple APIs + Stripe, partnered with Make-A-Wish.  
+- **La Info Positiva (2025)** – CEO Spain. Scaled 1M-follower brand → 20M monthly views, doubled engagement, partnered with UNHCR, Edelman, Ogilvy, Sony Music.  
+- **Google (2024)** – Intern. Managed Tier-1 portfolio solo → +€5M ARR in 12 weeks, built growth tracker (+20% vs 7.5%), delivered AI keynote to 40+ retail clients.  
+- **Clarity AI (2023)** – Intern. Improved data pipelines (+5% accuracy) and built AI tool cutting compliance response times from days → minutes.  
+- **Shield (2020–22)** – Founder. Privacy Chrome extension. Raised €60k, joined FrenchTech + Google for Startups, hit 5k+ organic users.  
 
 ---
 
-## Education
+## Projects  
 
-- **IE University (Madrid, 2020–2025)**  
-  Dual Degree in **Business & Data Science** • GPA: 9/10 • Top 10% • Honors + Scholarship.  
-  Winner: RyanAir, CDTM, Sustainability Hackathons.  
+| Project | Stack | Why it matters | Demo |
+|---------|-------|----------------|------|
+| **Pledge** | React Native (Expo), Apple APIs, Stripe | Helps users take back control from social media. | [GitHub](https://github.com/mateoploquin/pledge-app) |
+| **La Info Positiva** | Editorial + growth ops | One of Spain’s fastest-growing news brands. | [Instagram](https://www.instagram.com/lainfopositiva/) |
+| **Shield** | Chrome APIs, Firebase | Early bet on privacy & data monetization. | [Website](https://www.shield-data.com/) |  
 
 ---
 
-## 📫 Connect
+## How I Work  
+
+- **Playbook:** observe → simplify → act fast.  
+- **Energizers:** founder-led teams, ambitious goals, AI with real-world impact.  
+- **Style:** listen first, cut the noise, execute with low ego and high speed.  
+
+---
+
+## Education  
+
+- **IE University (Madrid, 2020–25)** – Dual Degree in **Business & Data Science**. GPA: 9/10 (Top 10%). Winner of hackathons incl. RyanAir, CDTM, Sustainability.  
+
+---
+
+## 📫 Connect  
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mateo-ploquin)  
-- 🐦 [Twitter](https://twitter.com/mateoploquin)  
-- 📧 mateo.ploquin@gmail.com  
+- 📧 mateoploquina@gmail.com  
+
+---
+
+## 🥊 Story Time: The Day I Fought “Baby Hulk”  
+
+When I lived in **Hong Kong**, I joined a small boxing gym where the coach spoke no English. For weeks we trained daily, communicating only through movements. One day, he invited me to what he called a *“friendly tournament.”*  
+
+I walked in expecting sparring… and found myself in a packed fight night. My opponent was introduced as **“Baby Hulk,”** the crowd roared in Cantonese, and I had no corner—just a stranger handing me water.  
+
+Round one: brutal. I was overwhelmed and taking hits. Round two: cornered, out of breath, facing a flurry of punches. Then something clicked—instinct took over. I threw everything into a single shot. The bell rang, the ref jumped in—**Baby Hulk was out cold.**  
+
+I’d won my first-ever fight, in a foreign city, against the local favorite. Later I discovered I’d broken my hand with that punch. The lesson stuck: **when cornered, adapt fast and swing with everything you’ve got.**  
 
  
