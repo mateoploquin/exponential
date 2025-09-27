@@ -12,7 +12,7 @@
 
 Madrid-based, raised between Mexico, US, and France — I’ve lived in **14 cities across 8 countries**. This gave me a global outlook and resilience: from touring Europe as a competitive tennis player, to bootstrapping startups with <100€ in the bank, to pitching on stage at the Start Summit in Switzerland.  
 
-I’m graduating in 2025 with a dual degree in **Business Administration & Data Science** at IE University, where my thesis explores how AI agents can compress the Lean Startup methodology.  
+I graduated in 2025 with a dual degree in **Business Administration & Data Science** at IE University.  
 
 ---
 
