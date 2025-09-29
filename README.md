@@ -69,6 +69,8 @@ I walked in expecting sparring… and found myself in a packed fight night. My o
 
 Round one: brutal. I was overwhelmed and taking hits. Round two: cornered, out of breath, facing a flurry of punches. Then something clicked—instinct took over. I threw everything into a single shot. The bell rang, the ref jumped in—**Baby Hulk was out cold.**  
 
-I’d won my first-ever fight, in a foreign city, against the local favorite. Later I discovered I’d broken my hand with that punch. The lesson stuck: **when cornered, adapt fast and swing with everything you’ve got.**  
+I’d won my first-ever fight, in a foreign city, against the local favorite. Later I discovered I’d broken my hand with that punch. 
+
+The lesson stuck: when you’re cornered, swing with everything you’ve got—there’s nothing to lose. That’s why I’m moving to SF now: to swing with everything I’ve got.
 
  
