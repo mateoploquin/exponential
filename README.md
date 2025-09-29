@@ -14,7 +14,7 @@
 > — my first-year professor  
 
 That’s me in a line: **quiet persistence + fast learning + founder energy**.  
-I’ve lived in **Hong Kong, Paris, Mexico City, Istanbul, Zurich, Dublin**—which taught me how to adapt anywhere and keep momentum no matter the context.  
+I’ve lived in **Hong Kong, Paris, Mexico City, Istanbul, Zurich, Dublin, Madrid, Segovia, Miami, Boston**—which taught me how to adapt anywhere very fast.  
 
 I just stepped down from leading **La Info Positiva** to go all-in on SF. Outside work, you’ll find me competing in **boxing 🥊** and **tennis 🎾**—I like challenges that test both mind and grit.  
 
@@ -43,8 +43,9 @@ I just stepped down from leading **La Info Positiva** to go all-in on SF. Outsid
 ## How I Work  
 
 - **Playbook:** observe → simplify → act fast.  
-- **Energizers:** founder-led teams, ambitious goals, AI with real-world impact.  
-- **Style:** listen first, cut the noise, execute with low ego and high speed.  
+- **Energizers:** bringing people together, clear objetives, going ALL-IN!  
+- **Style:** listen first, cut the noise, execute with low ego and high speed.
+- **Personality:** ESTJ-A  - highly logical and analytical thinker, extroverted, "bridge-builder"
 
 ---
 
